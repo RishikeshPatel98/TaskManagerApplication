@@ -201,7 +201,7 @@ existing code, or fix bugs, follow these steps:
 
 **License**
 
-This project is licensed under the IUBH International Hoschule License.
+This project is licensed under the IUBH International Hochschule License.
 
 **Contact**
 
